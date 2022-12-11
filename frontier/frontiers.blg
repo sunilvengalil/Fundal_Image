@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: frontiers.aux
+The style file: Frontiers-Harvard.bst
+Database file #1: test.bib
+Warning--entry type for "h25w98-18" isn't style-file defined
+--line 385 of file test.bib
+Warning--I didn't find a database entry for ""
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--can't use both volume and number fields in nur2018exudate
+Warning--empty pages in Yu_2018_ECCV
+You've used 38 entries,
+            3029 wiz_defined-function locations,
+            839 strings with 12914 characters,
+and the built_in function-call counts, 27902 in all, are:
+= -- 2372
+> -- 1490
+< -- 19
++ -- 728
+- -- 400
+* -- 1992
+:= -- 3995
+add.period$ -- 79
+call.type$ -- 38
+change.case$ -- 347
+chr.to.int$ -- 39
+cite$ -- 78
+duplicate$ -- 1818
+empty$ -- 1917
+format.name$ -- 535
+if$ -- 5753
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 398
+newline$ -- 243
+num.names$ -- 152
+pop$ -- 920
+preamble$ -- 1
+purify$ -- 285
+quote$ -- 0
+skip$ -- 1095
+stack$ -- 0
+substring$ -- 1211
+swap$ -- 917
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 342
+warning$ -- 2
+while$ -- 178
+width$ -- 0
+write$ -- 554
+(There were 4 warnings)

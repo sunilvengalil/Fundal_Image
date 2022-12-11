@@ -1,0 +1,297 @@
+\begin{thebibliography}{38}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+
+\bibitem[{Adapa et~al.(2020)Adapa, Joseph~Raj, Alisetti, Zhuang, and
+  Naik}]{adapa2020supervised}
+Adapa, D., Joseph~Raj, A.~N., Alisetti, S.~N., Zhuang, Z., and Naik, G. (2020).
+\newblock A supervised blood vessel segmentation technique for digital fundus
+  images using zernike moment based features.
+\newblock \emph{Plos one} 15, e0229831
+\bibAnnoteFile{adapa2020supervised}
+
+\bibitem[{Aslan and et~al.(2018)}]{aslan2018segmentation}
+Aslan, M.~F. and et~al., C. (2018).
+\newblock Segmentation of retinal blood vessel using gabor filter and extreme
+  learning machines.
+\newblock In \emph{2018 International Conference on Artificial Intelligence and
+  Data Processing (IDAP)} (IEEE), 1--5
+\bibAnnoteFile{aslan2018segmentation}
+
+\bibitem[{Budai et~al.(2013)Budai, Bock, Maier, Hornegger, and
+  Michelson}]{budai2013robust}
+Budai, A., Bock, R., Maier, A., Hornegger, J., and Michelson, G. (2013).
+\newblock Robust vessel segmentation in fundus images.
+\newblock \emph{International journal of biomedical imaging} 2013
+\bibAnnoteFile{budai2013robust}
+
+\bibitem[{Buslaev and et~al.(2020)}]{buslaev2020albumentations}
+Buslaev, A. and et~al., I. (2020).
+\newblock Albumentations: fast and flexible image augmentations.
+\newblock \emph{Information} 11, 125
+\bibAnnoteFile{buslaev2020albumentations}
+
+\bibitem[{Chen and et~al.(2017)}]{chen2017deeplab}
+Chen, L.-C. and et~al., P. (2017).
+\newblock Deeplab: Semantic image segmentation with deep convolutional nets,
+  atrous convolution, and fully connected crfs.
+\newblock \emph{IEEE transactions on pattern analysis and machine intelligence}
+  40, 834--848
+\bibAnnoteFile{chen2017deeplab}
+
+\bibitem[{Dash et~al.(2020)Dash, Parida, and Bhoi}]{dash2020retinal}
+Dash, J., Parida, P., and Bhoi, N. (2020).
+\newblock Retinal blood vessel extraction from fundus images using enhancement
+  filtering and clustering.
+\newblock \emph{ELCVIA: electronic letters on computer vision and image
+  analysis} 19, 0038--52
+\bibAnnoteFile{dash2020retinal}
+
+\bibitem[{Feng et~al.(2017)Feng, Yang, Yao, Qiao, Yu, and Xu}]{feng2017deep}
+Feng, Z., Yang, J., Yao, L., Qiao, Y., Yu, Q., and Xu, X. (2017).
+\newblock Deep retinal image segmentation: a fcn-based architecture with short
+  and long skip connections for retinal image segmentation.
+\newblock In \emph{International conference on neural information processing}
+  (Springer), 713--722
+\bibAnnoteFile{feng2017deep}
+
+\bibitem[{Guo et~al.(2020)Guo, Wang, Kang, Liu, Gao, and Li}]{guo2020bin}
+Guo, S., Wang, K., Kang, H., Liu, T., Gao, Y., and Li, T. (2020).
+\newblock Bin loss for hard exudates segmentation in fundus images.
+\newblock \emph{Neurocomputing} 392, 314--324
+\bibAnnoteFile{guo2020bin}
+
+\bibitem[{Hamad et~al.(2020)Hamad, Dwickat, Tegolo, and
+  Valenti}]{hamad2020exudates}
+Hamad, H., Dwickat, T., Tegolo, D., and Valenti, C. (2020).
+\newblock Exudates as landmarks identified through fcm clustering in retinal
+  images.
+\newblock \emph{Applied Sciences} 11, 142
+\bibAnnoteFile{hamad2020exudates}
+
+\bibitem[{Hassan and et~al.(2015)}]{hassan2015retinal}
+Hassan, G. and et~al., E.-B. (2015).
+\newblock Retinal blood vessel segmentation approach based on mathematical
+  morphology.
+\newblock \emph{Procedia Computer Science} 65, 612--622
+\bibAnnoteFile{hassan2015retinal}
+
+\bibitem[{Hu et~al.(2015)Hu, Satija, and Manson}]{hu2015curbing}
+Hu, F.~B., Satija, A., and Manson, J.~E. (2015).
+\newblock Curbing the diabetes pandemic: the need for global policy solutions.
+\newblock \emph{Jama} 313, 2319--2320
+\bibAnnoteFile{hu2015curbing}
+
+\bibitem[{Jiang et~al.(2018)Jiang, Zhang, Wang, and Ko}]{jiang2018retinal}
+Jiang, Z., Zhang, H., Wang, Y., and Ko, S.-B. (2018).
+\newblock Retinal blood vessel segmentation using fully convolutional network
+  with transfer learning.
+\newblock \emph{Computerized Medical Imaging and Graphics} 68, 1--15
+\bibAnnoteFile{jiang2018retinal}
+
+\bibitem[{Joshua and et~al.(2020)}]{joshua2020blood}
+Joshua, A.~O. and et~al., N. (2020).
+\newblock Blood vessel segmentation from fundus images using modified u-net
+  convolutional neural network.
+\newblock \emph{Journal of Image and Graphics} 8, 21--25
+\bibAnnoteFile{joshua2020blood}
+
+\bibitem[{Kaur and Kaur(2022)}]{kaur2022uniconv}
+Kaur, J. and Kaur, P. (2022).
+\newblock Uniconv: An enhanced u-net based inceptionv3 convolutional model for
+  dr semantic segmentation in retinal fundus images.
+\newblock \emph{Concurrency and Computation: Practice and Experience} , e7138
+\bibAnnoteFile{kaur2022uniconv}
+
+\bibitem[{Kou et~al.(2020)Kou, Li, Yu, and Yuan}]{kou2020enhanced}
+Kou, C., Li, W., Yu, Z., and Yuan, L. (2020).
+\newblock An enhanced residual u-net for microaneurysms and exudates
+  segmentation in fundus images.
+\newblock \emph{IEEE Access} 8, 185514--185525
+\bibAnnoteFile{kou2020enhanced}
+
+\bibitem[{Krestanova et~al.(2020)Krestanova, Kubicek, and
+  Penhaker}]{krestanova2020recent}
+Krestanova, A., Kubicek, J., and Penhaker, M. (2020).
+\newblock Recent techniques and trends for retinal blood vessel extraction and
+  tortuosity evaluation: A comprehensive review.
+\newblock \emph{Ieee Access} 8, 197787--197816
+\bibAnnoteFile{krestanova2020recent}
+
+\bibitem[{Krizhevsky and et~al.(2012)}]{krizhevsky2012imagenet}
+Krizhevsky, A. and et~al., S. (2012).
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock \emph{Advances in neural information processing systems} 25,
+  1097--1105
+\bibAnnoteFile{krizhevsky2012imagenet}
+
+\bibitem[{LeCun et~al.(1989)LeCun, Boser, Denker, Henderson, Howard, Hubbard
+  et~al.}]{lecun1989handwritten}
+LeCun, Y., Boser, B., Denker, J., Henderson, D., Howard, R., Hubbard, W.,
+  et~al. (1989).
+\newblock Handwritten digit recognition with a back-propagation network.
+\newblock \emph{Advances in neural information processing systems} 2
+\bibAnnoteFile{lecun1989handwritten}
+
+\bibitem[{Liu(2021)}]{liu2021construction}
+Liu, Z. (2021).
+\newblock Construction and verification of color fundus image retinal vessels
+  segmentation algorithm under bp neural network.
+\newblock \emph{The Journal of Supercomputing} 77, 7171--7183
+\bibAnnoteFile{liu2021construction}
+
+\bibitem[{Long et~al.(2015)Long, Shelhamer, and Darrell}]{long2015fully}
+Long, J., Shelhamer, E., and Darrell, T. (2015).
+\newblock Fully convolutional networks for semantic segmentation.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}. 3431--3440
+\bibAnnoteFile{long2015fully}
+
+\bibitem[{Nur and Tjandrasa(2018)}]{nur2018exudate}
+Nur, N. and Tjandrasa, H. (2018).
+\newblock Exudate segmentation in retinal images of diabetic retinopathy using
+  saliency method based on region.
+\newblock In \emph{Journal of Physics: Conference Series} (IOP Publishing),
+  vol. 1108, 012110
+\bibAnnoteFile{nur2018exudate}
+
+\bibitem[{Park and et~al.(2020)}]{park2020m}
+Park, K.-B. and et~al., C. (2020).
+\newblock M-gan: Retinal blood vessel segmentation by balancing losses through
+  stacked deep fully convolutional networks.
+\newblock \emph{IEEE Access} 8, 146308--146322
+\bibAnnoteFile{park2020m}
+
+\bibitem[{Perdomo et~al.(2017)Perdomo, Arevalo, and
+  Gonz{\'a}lez}]{perdomo2017convolutional}
+Perdomo, O., Arevalo, J., and Gonz{\'a}lez, F.~A. (2017).
+\newblock Convolutional network to detect exudates in eye fundus images of
+  diabetic subjects.
+\newblock In \emph{12th International Symposium on Medical Information
+  Processing and Analysis} (SPIE), vol. 10160, 235--240
+\bibAnnoteFile{perdomo2017convolutional}
+
+\bibitem[{Porwal and et~al.(2018)}]{h25w98-18}
+[Dataset] Porwal, P. and et~al., P. (2018).
+\newblock Indian diabetic retinopathy image dataset (idrid).
+\newblock \doi{10.21227/H25W98}
+\bibAnnoteFile{h25w98-18}
+
+\bibitem[{Ronneberger et~al.(2015)Ronneberger, Fischer, and
+  Brox}]{ronneberger2015u}
+Ronneberger, O., Fischer, P., and Brox, T. (2015).
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In \emph{International Conference on Medical image computing and
+  computer-assisted intervention} (Springer), 234--241
+\bibAnnoteFile{ronneberger2015u}
+
+\bibitem[{Simonyan and Zisserman(2014)}]{simonyan2014very}
+Simonyan, K. and Zisserman, A. (2014).
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock \emph{arXiv preprint arXiv:1409.1556}
+\bibAnnoteFile{simonyan2014very}
+
+\bibitem[{Singh and et~al.(2014)}]{singh2014new}
+Singh, D. and et~al., S. (2014).
+\newblock A new morphology based approach for blood vessel segmentation in
+  retinal images.
+\newblock In \emph{2014 annual IEEE India conference (INDICON)} (IEEE), 1--6
+\bibAnnoteFile{singh2014new}
+
+\bibitem[{Sun et~al.(2021)Sun, Fang, Yang, Zhu, Wang, Liu
+  et~al.}]{sun2021robust}
+Sun, X., Fang, H., Yang, Y., Zhu, D., Wang, L., Liu, J., et~al. (2021).
+\newblock Robust retinal vessel segmentation from a data augmentation
+  perspective.
+\newblock In \emph{International Workshop on Ophthalmic Medical Image Analysis}
+  (Springer), 189--198.
+\newblock Doi:\url{https://doi.org/10.1007/978-3-030-87000-3_20}
+\bibAnnoteFile{sun2021robust}
+
+\bibitem[{Tan et~al.(2017)Tan, Fujita, Sivaprasad, Bhandary, Rao, Chua
+  et~al.}]{tan2017automated}
+Tan, J.~H., Fujita, H., Sivaprasad, S., Bhandary, S.~V., Rao, A.~K., Chua,
+  K.~C., et~al. (2017).
+\newblock Automated segmentation of exudates, haemorrhages, microaneurysms
+  using single convolutional neural network.
+\newblock \emph{Information sciences} 420, 66--76
+\bibAnnoteFile{tan2017automated}
+
+\bibitem[{Vengalil et~al.(2016)Vengalil, Sinha, Kruthiventi, and
+  Babu}]{vengalil2016customizing}
+Vengalil, S.~K., Sinha, N., Kruthiventi, S.~S., and Babu, R.~V. (2016).
+\newblock Customizing cnns for blood vessel segmentation from fundus images.
+\newblock In \emph{2016 International Conference on Signal Processing and
+  Communications (SPCOM)} (IEEE), 1--4
+\bibAnnoteFile{vengalil2016customizing}
+
+\bibitem[{Wang et~al.(2018)Wang, Chen, Yuan, Liu, Huang, Hou
+  et~al.}]{wang2018under}
+Wang, P., Chen, P., Yuan, Y., Liu, D., Huang, Z., Hou, X., et~al. (2018).
+\newblock Understanding convolution for semantic segmentation.
+\newblock In \emph{2018 IEEE Winter Conference on Applications of Computer
+  Vision (WACV)}. 1451--1460.
+\newblock \doi{10.1109/WACV.2018.00163}
+\bibAnnoteFile{wang2018under}
+
+\bibitem[{Wikipedia(2022)}]{maculaurl}
+[Dataset] Wikipedia (2022).
+\newblock \url{https://en.wikipedia.org/wiki/Macula_of_retina}
+\bibAnnoteFile{maculaurl}
+
+\bibitem[{Xu et~al.(2021)Xu, Chen, Cao, Zhang, and Tao}]{xu2021retinal}
+Xu, S., Chen, Z., Cao, W., Zhang, F., and Tao, B. (2021).
+\newblock Retinal vessel segmentation algorithm based on residual convolution
+  neural network.
+\newblock \emph{Frontiers in Bioengineering and Biotechnology} 9
+\bibAnnoteFile{xu2021retinal}
+
+\bibitem[{Yavuz and K{\"o}se(2011)}]{yavuz2011retinal}
+Yavuz, Z. and K{\"o}se, C. (2011).
+\newblock Retinal blood vessel segmentation using gabor filter and top-hat
+  transform.
+\newblock In \emph{2011 IEEE 19th Signal Processing and Communications
+  Applications Conference (SIU)} (IEEE), 546--549
+\bibAnnoteFile{yavuz2011retinal}
+
+\bibitem[{Yu et~al.(2018)Yu, Wang, Peng, Gao, Yu, and Sang}]{Yu_2018_ECCV}
+Yu, C., Wang, J., Peng, C., Gao, C., Yu, G., and Sang, N. (2018).
+\newblock Bisenet: Bilateral segmentation network for real-time semantic
+  segmentation.
+\newblock In \emph{Proceedings of the European Conference on Computer Vision
+  (ECCV)}
+\bibAnnoteFile{Yu_2018_ECCV}
+
+\bibitem[{Zhang and et~al.(2010)}]{zhang2010retinal}
+Zhang, B. and et~al., Z. (2010).
+\newblock Retinal vessel extraction by matched filter with first-order
+  derivative of gaussian.
+\newblock \emph{Computers in biology and medicine} 40, 438--445
+\bibAnnoteFile{zhang2010retinal}
+
+\bibitem[{Zheng et~al.(2018)Zheng, Liu, Zhang, Zheng, Bunyak, Xu
+  et~al.}]{zheng2018detection}
+Zheng, R., Liu, L., Zhang, S., Zheng, C., Bunyak, F., Xu, R., et~al. (2018).
+\newblock Detection of exudates in fundus photographs with imbalanced learning
+  using conditional generative adversarial network.
+\newblock \emph{Biomedical optics express} 9, 4863--4878
+\bibAnnoteFile{zheng2018detection}
+
+\bibitem[{Zhuang(2018)}]{zhuang2018laddernet}
+Zhuang, J. (2018).
+\newblock Laddernet: Multi-path networks based on u-net for medical image
+  segmentation.
+\newblock \emph{arXiv preprint arXiv:1810.07810}
+\bibAnnoteFile{zhuang2018laddernet}
+
+\end{thebibliography}
