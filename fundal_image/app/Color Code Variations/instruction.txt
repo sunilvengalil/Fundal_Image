@@ -1,0 +1,1 @@
+Place the desired config.toml file in the .streamlit folder in the home/admin directory

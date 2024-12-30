@@ -1,0 +1,19 @@
+With Augmentation 
+
+DICE + BCE
+
+DRIVE (64) - 73.93
+
+DRIVE (128) - 74.9
+
+DRIVE (256) - 77.82
+
+
+DICE
+
+DRIVE (64) - 77.39
+
+DRIVE (128) - 77.08
+
+DRIVE (256) - 77.81
+

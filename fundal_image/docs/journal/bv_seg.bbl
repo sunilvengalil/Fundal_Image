@@ -1,0 +1,123 @@
+\begin{thebibliography}{10}
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky and Sutskever et~al.,
+\newblock ``Imagenet classification with deep convolutional neural networks,''
+\newblock {\em Advances in neural information processing systems}, vol. 25, pp.
+  1097--1105, 2012.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman,
+\newblock ``Very deep convolutional networks for large-scale image
+  recognition,''
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{chen2017deeplab}
+Liang-Chieh Chen and Papandreou et~al.,
+\newblock ``Deeplab: Semantic image segmentation with deep convolutional nets,
+  atrous convolution, and fully connected crfs,''
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  vol. 40, no. 4, pp. 834--848, 2017.
+
+\bibitem{vengalil2016customizing}
+Sunil~Kumar Vengalil, Neelam Sinha, Srinivas~SS Kruthiventi, and R~Venkatesh
+  Babu,
+\newblock ``Customizing cnns for blood vessel segmentation from fundus
+  images,''
+\newblock in {\em 2016 International Conference on Signal Processing and
+  Communications (SPCOM)}. IEEE, 2016, pp. 1--4.
+
+\bibitem{zhuang2018laddernet}
+Juntang Zhuang,
+\newblock ``Laddernet: Multi-path networks based on u-net for medical image
+  segmentation,''
+\newblock {\em arXiv preprint arXiv:1810.07810}, 2018.
+
+\bibitem{jiang2018retinal}
+Zhexin Jiang, Hao Zhang, Yi~Wang, and Seok-Bum Ko,
+\newblock ``Retinal blood vessel segmentation using fully convolutional network
+  with transfer learning,''
+\newblock {\em Computerized Medical Imaging and Graphics}, vol. 68, pp. 1--15,
+  2018.
+
+\bibitem{park2020m}
+Kyeong-Beom Park and Choi et~al.,
+\newblock ``M-gan: Retinal blood vessel segmentation by balancing losses
+  through stacked deep fully convolutional networks,''
+\newblock {\em IEEE Access}, vol. 8, pp. 146308--146322, 2020.
+
+\bibitem{deng2009imagenet}
+Jia Deng and Dong et~al.,
+\newblock ``Imagenet: A large-scale hierarchical image database,''
+\newblock in {\em 2009 IEEE conference on computer vision and pattern
+  recognition}. Ieee, 2009, pp. 248--255.
+
+\bibitem{budai2013robust}
+Attila Budai, R{\"u}diger Bock, Andreas Maier, Joachim Hornegger, and Georg
+  Michelson,
+\newblock ``Robust vessel segmentation in fundus images,''
+\newblock {\em International journal of biomedical imaging}, vol. 2013, 2013.
+
+\bibitem{h25w98-18}
+Prasanna Porwal and Pachade et~al.,
+\newblock ``Indian diabetic retinopathy image dataset (idrid),'' 2018.
+
+\bibitem{adapa2020supervised}
+Dharmateja Adapa, Alex~Noel Joseph~Raj, Sai~Nikhil Alisetti, Zhemin Zhuang, and
+  Ganesh Naik,
+\newblock ``A supervised blood vessel segmentation technique for digital fundus
+  images using zernike moment based features,''
+\newblock {\em Plos one}, vol. 15, no. 3, pp. e0229831, 2020.
+
+\bibitem{zhang2010retinal}
+Bob Zhang and Zhang et~al.,
+\newblock ``Retinal vessel extraction by matched filter with first-order
+  derivative of gaussian,''
+\newblock {\em Computers in biology and medicine}, vol. 40, no. 4, pp.
+  438--445, 2010.
+
+\bibitem{yavuz2011retinal}
+Zafer Yavuz and Cemal K{\"o}se,
+\newblock ``Retinal blood vessel segmentation using gabor filter and top-hat
+  transform,''
+\newblock in {\em 2011 IEEE 19th Signal Processing and Communications
+  Applications Conference (SIU)}. IEEE, 2011, pp. 546--549.
+
+\bibitem{aslan2018segmentation}
+Muhammet~Fatih Aslan and Ceylan et~al.,
+\newblock ``Segmentation of retinal blood vessel using gabor filter and extreme
+  learning machines,''
+\newblock in {\em 2018 International Conference on Artificial Intelligence and
+  Data Processing (IDAP)}. IEEE, 2018, pp. 1--5.
+
+\bibitem{hassan2015retinal}
+Gehad Hassan and El-Bendary et~al.,
+\newblock ``Retinal blood vessel segmentation approach based on mathematical
+  morphology,''
+\newblock {\em Procedia Computer Science}, vol. 65, pp. 612--622, 2015.
+
+\bibitem{singh2014new}
+Dalwinder Singh and Singh et~al.,
+\newblock ``A new morphology based approach for blood vessel segmentation in
+  retinal images,''
+\newblock in {\em 2014 annual IEEE India conference (INDICON)}. IEEE, 2014, pp.
+  1--6.
+
+\bibitem{ronneberger2015u}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox,
+\newblock ``U-net: Convolutional networks for biomedical image segmentation,''
+\newblock in {\em International Conference on Medical image computing and
+  computer-assisted intervention}. Springer, 2015, pp. 234--241.
+
+\bibitem{joshua2020blood}
+Afolabi~O Joshua and Nelwamondo et~al.,
+\newblock ``Blood vessel segmentation from fundus images using modified u-net
+  convolutional neural network,''
+\newblock {\em Journal of Image and Graphics}, vol. 8, no. 1, pp. 21--25, 2020.
+
+\bibitem{buslaev2020albumentations}
+Alexander Buslaev and Iglovikov et~al.,
+\newblock ``Albumentations: fast and flexible image augmentations,''
+\newblock {\em Information}, vol. 11, no. 2, pp. 125, 2020.
+
+\end{thebibliography}

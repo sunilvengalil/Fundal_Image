@@ -1,0 +1,18 @@
+Dice score sith Augmentation
+
+Loss DICE + BCE
+
+DRIVE (128) - 61.92
+
+DRIVE (64) - 49.11
+
+DRIVE (256) - 76.11
+
+
+Loss DICE
+
+DRIVE (128) - 61.97
+
+DRIVE (64) - 48.90
+
+DRIVE (256) - 76.79

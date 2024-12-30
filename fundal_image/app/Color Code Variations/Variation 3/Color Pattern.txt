@@ -1,0 +1,3 @@
+Font - Red
+Primary Background - White
+Secondary Bacground - Yellow

@@ -1,0 +1,3 @@
+Font - White
+Primary Background - Black
+Secondary Bacground - Dark Gray

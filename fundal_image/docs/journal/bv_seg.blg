@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bv_seg.aux
+The style file: IEEEbib.bst
+Database file #1: strings.bib
+Database file #2: refs.bib
+Warning--entry type for "h25w98-18" isn't style-file defined
+--line 161 of file refs.bib
+Warning--I didn't find a database entry for "drive"
+Warning--I didn't find a database entry for "chase_db"
+Warning--I didn't find a database entry for "idrid"
+You've used 19 entries,
+            1838 wiz_defined-function locations,
+            575 strings with 7263 characters,
+and the built_in function-call counts, 4838 in all, are:
+= -- 471
+> -- 181
+< -- 6
++ -- 67
+- -- 48
+* -- 360
+:= -- 734
+add.period$ -- 25
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 212
+empty$ -- 478
+format.name$ -- 48
+if$ -- 1115
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 18
+newline$ -- 97
+num.names$ -- 19
+pop$ -- 57
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 104
+stack$ -- 0
+substring$ -- 361
+swap$ -- 67
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 53
+width$ -- 21
+write$ -- 213
+(There were 4 warnings)
